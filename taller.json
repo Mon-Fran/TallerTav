@@ -1,0 +1,23 @@
+{
+    "taller": [
+    {
+      "tallerId": "1",
+      "nombreTaller": "Ed. Fisica",
+      "inicio": "10:00am",
+      "fin": "12:00pm"
+    },
+    {
+      "tallerId": "2",
+      "nombreTaller": "Ajedrez",
+      "inicio": "12:00pm",
+      "fin": "14:00pm"
+    },
+      {
+      "tallerId": "3",
+      "nombreTaller": "Arte",
+      "inicio": "16:00pm",
+      "fin": "18:00pm"
+    }
+
+  ]
+}
